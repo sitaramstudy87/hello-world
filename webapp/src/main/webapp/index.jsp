@@ -32,6 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> updated to build and deploy via Jenkins</h1>
    <h1> updated to build and deploy via Ansible</h1>
 </form>
