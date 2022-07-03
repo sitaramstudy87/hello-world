@@ -32,4 +32,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> updated to build and upload on dockerhub</h1> </form>
+   <h1> updated to build and upload on dockerhub</h1>
+   <h1> CI and CD JOBs triggered successfully
+
+ </form>
+
